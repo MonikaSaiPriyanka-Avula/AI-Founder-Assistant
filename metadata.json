@@ -1,0 +1,6 @@
+{
+  "name": "AI Founder Assistant",
+  "description": "Organize, track, and evaluate startup ideas with structured business modeling, competitor analysis, SWOT tracking, task management, and AI strategic suggestions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
